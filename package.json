@@ -1,0 +1,24 @@
+{
+  "name": "slush-xdc-pages-vue",
+  "version": "0.1.1",
+  "description": "A multiple pages project for vue",
+  "keywords": [
+    "slush-xdc-pages-vue",
+    "xdc",
+    "slushgenerator"
+  ],
+  "scripts": {
+    "dev": "xdc watch",
+    "dist": "xdc build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x-xdc/slush-xdc-pages-vue.git"
+  },
+  "homepage": "https://github.com/x-xdc/slush-xdc-pages-vue#readme",
+  "bugs": {
+    "url": "https://github.com/x-xdc/slush-xdc-pages-vue/issues"
+  },
+  "author": "czh",
+  "license": "MIT"
+}
